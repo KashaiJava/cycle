@@ -68,6 +68,6 @@ public class Main {
             total = total + total/100;
             total = total + salary;
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей");
-        }
+         }
     }
 }
